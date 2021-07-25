@@ -1,1 +1,1 @@
-Routify + TypeScript Template
+Svelte + Routify + TypeScript Template
