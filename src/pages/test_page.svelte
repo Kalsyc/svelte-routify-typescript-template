@@ -4,7 +4,7 @@
 
 <main>
   <div>Hello</div>
-  <button on:click={$goto('/test_page')}>Go to test page</button>
+  <button on:click={$goto('/')}>Go to root page</button>
 </main>
 
 <style>
