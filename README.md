@@ -19,3 +19,5 @@ Run `npm install` to ensure all the modules are properly installed.
 `npm run electron-dev` to start the development server.
 
 For building, install electron-builder and run
+
+Follow https://github.com/soulehshaikh99/create-svelte-electron-app
